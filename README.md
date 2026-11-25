@@ -2,10 +2,11 @@
 
 # Amin Tavakoli
 
-I build software, mostly on Linux.
-I care that what I make feels good to use, not only that it works.
+I'm a developer who lives in Linux. I like building tools that stay
+out of the way until you need them — clear interfaces, solid backends,
+and software that feels finished when you open it.
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=7AA2F7&center=true&vCenter=true&width=560&height=40&lines=I+build+software%2C+mostly+on+Linux;I+care+how+it+feels+to+use" alt="" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=7AA2F7&center=true&vCenter=true&width=560&height=40&lines=Developer+on+Linux;Tools+that+stay+out+of+the+way;Clear.+Solid.+Finished." alt="" />
 
 <br>
 
