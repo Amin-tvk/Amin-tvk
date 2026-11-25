@@ -2,11 +2,11 @@
 
 # Amin Tavakoli
 
-I'm a developer who lives in Linux. I like building tools that stay
-out of the way until you need them — clear interfaces, solid backends,
-and software that feels finished when you open it.
+I build software on the side — mostly for myself, mostly on Linux.
+I like tools that stay out of the way until you need them, and software
+that feels finished when you open it.
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=7AA2F7&center=true&vCenter=true&width=560&height=40&lines=Developer+on+Linux;Tools+that+stay+out+of+the+way;Clear.+Solid.+Finished." alt="" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=7AA2F7&center=true&vCenter=true&width=560&height=40&lines=Building+software+on+the+side;Mostly+on+Linux;Tools+that+stay+out+of+the+way" alt="" />
 
 <br>
 
