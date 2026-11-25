@@ -1,29 +1,52 @@
-# Amin Tavakoli
+<div align="center">
 
-I build software that runs on your machine or your server: Linux desktop tools, a self-hosted messenger, and the APIs behind production products.
+# امین توکلی
 
-The two projects below are public. A few others stay private.
+نرم‌افزار می‌سازم، بیشتر روی لینوکس.
+برایم مهم است چیزی که می‌سازم روان باشد و کار کردن با آن خوشایند، نه فقط اینکه کار کند.
 
-## Public
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=7AA2F7&center=true&vCenter=true&width=560&height=40&lines=I+build+software%2C+mostly+on+Linux;I+care+how+it+feels+to+use" alt="" />
 
-### [Linux Island](https://github.com/Amin-tvk/linux-island)
+<br>
 
-A Dynamic Island for GNOME. It shows what is playing, surfaces notifications you can read and reply to, handles Bluetooth calls, and catches volume, brightness, and battery changes, then shrinks out of the way.
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40" alt="Python" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" width="40" height="40" alt="Redis" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="40" height="40" alt="Docker" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="40" height="40" alt="Linux" />
 
-### [Peyvand](https://github.com/Amin-tvk/tele-matrix)
+</div>
 
-A self-hosted messenger with a Telegram-style interface on your own Matrix server. End-to-end encryption, a web app and an installable PWA, brought up with Docker Compose. The image is [`amintvk/peyvand-web`](https://hub.docker.com/r/amintvk/peyvand-web).
+<br>
 
-## In production, not public
+<div align="center">
 
-**TileVision.** Realistic tile and ceramic previews on a photo of a room: surface detection, a material per surface, and a NestJS API that keeps the model behind auth and quotas.
+<img height="165" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Amin-tvk&show_icons=true&theme=tokyonight&hide_border=true&hide=stars,prs,issues" />
+<img height="165" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amin-tvk&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
 
-**Peyvandyar.** Tools for Basalam vendors: catalog operations, multi-booth sync, subscriptions, and social publishing, on Express, PostgreSQL, and Redis.
+<br><br>
 
-## Stack
+<img alt="GitHub streak" src="https://streak-stats.demolab.com?user=Amin-tvk&theme=tokyonight&hide_border=true" />
 
-TypeScript, JavaScript, and Python. NestJS and Express. PostgreSQL, Redis, and Docker. GNOME on Linux, and Matrix.
+<br><br>
 
-## Contact
+<img alt="Contribution graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Amin-tvk&theme=tokyo-night&hide_border=true&area=true" />
+
+</div>
+
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Amin-tvk/Amin-tvk/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Amin-tvk/Amin-tvk/output/github-contribution-grid-snake.svg" />
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/Amin-tvk/Amin-tvk/output/github-contribution-grid-snake.svg" />
+</picture>
+
+<div align="center">
 
 [tavakolia088@gmail.com](mailto:tavakolia088@gmail.com)
+
+</div>
